@@ -1,0 +1,4 @@
+[project]
+name = "speedy_gonzales"
+version = "0.0.1"
+description = "Speedy gonzales is a side-project that serves as a sandbox for experimenting with disabling global interpreter lock."
